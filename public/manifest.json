@@ -1,6 +1,6 @@
 {
     "name": "Gestão de despesas de viagem",
-    "short_name": "Gestão de despesas de viagem",
+    "short_name": "GDV",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
